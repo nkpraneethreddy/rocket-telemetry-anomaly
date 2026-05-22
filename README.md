@@ -1,4 +1,5 @@
 # 🚀 Rocket Telemetry Anomaly Detector
+![Anomaly Detection](anomaly_turbopump_failure.png)
 
 Real-time anomaly detection on simulated rocket engine telemetry using **Isolation Forest** — an unsupervised ML algorithm that requires no labelled failure data, making it ideal for safety-critical systems where failures are rare.
 
